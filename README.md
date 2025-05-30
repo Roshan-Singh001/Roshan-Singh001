@@ -4,10 +4,12 @@
 I am a passionate web developer specializing in React and Node. I enjoy solving complex problems and building innovative solutions.
 
 💻 **Skills**  
-- **Programming Languages**: Python, C++, C  
-- **Web Development**: React, Node.js, HTML, CSS, Tailwind CSS
-- **Tools & Frameworks**: Git, VS Code, Django, Flask  
-- **Other Interests**: Cloud Computing, Blockchain, Open Source
+- **Programming Languages**: Python, C, C++, JavaScript, Java
+- **Web Development**: React JS, Next JS, Node.js, PHP, Wordpress, HTML, CSS, Tailwind CSS
+- **Databases**: MySQL, MongoDB
+- **Tools & Frameworks**: Git, VS Code
+- **Cloud Computing**: Microsoft Azure, Amazon Web Services (AWS) 
+- **Other Interests**: Blockchain, Open Source
 
 🚀 **Featured Project**  
 🔗 [AI Assistant](https://github.com/Roshan-Singh001/AI-Assistant)  
