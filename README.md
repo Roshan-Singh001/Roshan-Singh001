@@ -8,7 +8,8 @@ I am a passionate web developer specializing in React and Node. I enjoy solving 
 - **Web Development**: React JS, Next JS, Node.js, PHP, Wordpress, HTML, CSS, Tailwind CSS
 - **Databases**: MySQL, MongoDB
 - **Tools & Frameworks**: Git, VS Code
-- **Cloud Computing**: Microsoft Azure, Amazon Web Services (AWS) 
+- **Cloud Computing**: Microsoft Azure, Amazon Web Services (AWS)
+- **Operating System**: Windows, Linux
 - **Other Interests**: Blockchain, Open Source
 
 🚀 **Featured Project**  
