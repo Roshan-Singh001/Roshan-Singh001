@@ -1,32 +1,90 @@
-# Hi, I'm Roshan Singh! 👋
+# Hi, I'm Roshan Singh 👋  
 
-🌟 **About Me**  
-I am a passionate web developer specializing in React and Node. I enjoy solving complex problems and building innovative solutions.
+🚀 **Full Stack Developer | Cloud & DevOps Enthusiast | AI Projects**  
 
-💻 **Skills**  
-- **Programming Languages**: Python, C, C++, JavaScript, Java
-- **Web Development**: React JS, Next JS, Node.js, PHP, Wordpress, HTML, CSS, Tailwind CSS
-- **Databases**: MySQL, MongoDB
-- **Tools & Frameworks**: Git, VS Code
-- **Cloud Computing**: Microsoft Azure, Amazon Web Services (AWS)
-- **Operating System**: Windows, Linux
-- **Other Interests**: Blockchain, Open Source
+I’m a BCA student with hands-on experience in building **real-world full stack and AI-powered applications**.  
+I enjoy working close to the backend, cloud infrastructure, and automation while building scalable products.
 
-🚀 **Featured Project**  
-🔗 [AI Assistant](https://github.com/Roshan-Singh001/AI-Assistant)  
-An advanced AI-based assistant featuring chat management, history search, and more!  
+---
 
-📈 **Stats**  
+## 🔍 What I Do
+- Build **full stack web apps** using React, Node.js, Next.js
+- Develop **AI-powered tools** using Gemini API & local LLMs (Ollama)
+- Work with **cloud platforms (AWS, Azure)** and DevOps fundamentals
+- Design clean APIs, databases, and scalable project structures
+
+I’m actively looking for:
+> **Internship / Trainee / Junior Developer roles (Full Stack / Backend / Cloud / DevOps)**
+
+---
+
+## 🧠 Problem Solving & DSA
+![My Leetcode Profile](https://leetcode.com/u/Roshan_Singh001/)
+- Solved **180+ Data Structures & Algorithms problems** on LeetCode
+- Comfortable with arrays, strings, recursion, hashing, stacks, queues & trees
+- Practice problem-solving using **C++ (primary)** and other languages when required
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**  
+- JavaScript, Python, C, C++
+
+**Frontend**  
+- React.js, Next.js, HTML, CSS, Tailwind CSS
+
+**Backend**  
+- Node.js, Express.js, PHP
+
+**Databases**  
+- MySQL, MongoDB, ChromaDB
+
+**Cloud & DevOps**  
+- AWS (EC2, S3 – basics)
+- Microsoft Azure
+- Linux, Git, CI/CD fundamentals
+
+**Tools**  
+- Git, GitHub, Postman, Wordpress, VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Simpl-AI — Multi-Tool AI Productivity Platform  
+🔗 https://github.com/Roshan-Singh001/Simpl-AI  
+
+**What I built:**
+- AI Chat Assistant with conversation history management
+- Code Editor with AI-assisted problem solving
+- Indexed chat system for faster navigation in long conversations
+- Backend APIs with Node.js & MySQL
+- Integrated Gemini API & Ollama (local LLM)
+
+**Tech Used:**  
+React, Node.js, MySQL, Tailwind CSS, Gemini API, Ollama, ChromaDB
+
+---
+
+### 🔹 Pixel & Pen (Upcoming)  
+A role-based blogging & content platform with:
+- Admin, Contributor & Reader dashboards
+- Article moderation & engagement features
+- Scalable SaaS-style architecture
+
+---
+
+## 📊 GitHub Stats
 ![Roshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Roshan-Singh001&show_icons=true&theme=radical)
 
-📫 **Let's Connect**  
-- LinkedIn: [Roshan Singh](https://www.linkedin.com/in/roshan-singh-b430132b1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- Twitter: [@oRoshanSingh](https://x.com/oRoshanSingh?t=Xh23FFa0Fm-i0CtHDOh_bw&s=09)  
+---
 
-✨ *More projects on the way—stay tuned!*  
-🚀 UPCOMING PROJECT: PIXEL & PEN
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/roshan-singh-b430132b1  
+- GitHub: https://github.com/Roshan-Singh001  
 
-
+✨ Always learning. Always building.
 <!---
 Roshan-Singh001/Roshan-Singh001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
