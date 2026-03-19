@@ -1,6 +1,6 @@
 # Hi, I'm Roshan Singh 👋  
 
-🚀 **Full Stack Developer | Cloud & DevOps Enthusiast | AI Projects**  
+🚀 **Full Stack Developer | Cloud & DevOps Enthusiast **  
 
 I’m a BCA student with hands-on experience in building **real-world full stack and AI-powered applications**.  
 I enjoy working close to the backend, cloud infrastructure, and automation while building scalable products.
