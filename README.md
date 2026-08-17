@@ -1,8 +1,8 @@
 # Hi, I'm Roshan Singh 👋
 
-### Full Stack Developer | JavaScript | AI & Cloud Enthusiast
+### Full Stack Developer | AI & Cloud Enthusiast
 
-I'm a BCA student and Full Stack Developer focused on building practical web applications and exploring how modern software systems work across the stack.
+I'm a Full Stack Developer focused on building practical web applications and exploring how modern software systems work across the stack.
 
 I enjoy working with **React, Node.js, Express, databases, APIs, and AI integrations**, while continuously improving my understanding of cloud and DevOps practices.
 
