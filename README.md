@@ -16,8 +16,7 @@ I'm particularly interested in building products that are **useful, maintainable
 * 🌱 Currently deepening my knowledge of **backend development, cloud, DevOps, and system design**
 * 🧠 Interested in **APIs, application architecture, databases, and AI integrations**
 * 💡 I enjoy understanding how things work internally rather than relying only on abstractions
-* 🎯 Looking for opportunities in **Full Stack / Backend Development**
-* 📍 Based in India
+* 🎯 Open for opportunities in **Full Stack / Backend Development**
 
 ---
 
@@ -116,7 +115,7 @@ A role-based blogging and content management platform designed around structured
 
 I regularly practice Data Structures & Algorithms to strengthen my problem-solving and programming fundamentals.
 
-* 🧩 **180+ LeetCode problems solved**
+* 🧩 **200+ LeetCode problems solved**
 * 💻 Primarily practice using **C++**
 * 📚 Topics include arrays, strings, hashing, recursion, stacks, queues, trees, and more
 
